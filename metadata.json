@@ -1,0 +1,43 @@
+{
+  "random_state": 42,
+  "cost_fn": 10.0,
+  "cost_fp": 1.0,
+  "target_column": "Class",
+  "feature_columns": [
+    "V1",
+    "V2",
+    "V3",
+    "V4",
+    "V5",
+    "V6",
+    "V7",
+    "V8",
+    "V9",
+    "V10",
+    "V11",
+    "V12",
+    "V13",
+    "V14",
+    "V15",
+    "V16",
+    "V17",
+    "V18",
+    "V19",
+    "V20",
+    "V21",
+    "V22",
+    "V23",
+    "V24",
+    "V25",
+    "V26",
+    "V27",
+    "V28",
+    "Amount"
+  ],
+  "best_model": "XGBoost_ScalePosWeight",
+  "thresholds": {
+    "decision_tree": 0.01,
+    "xgboost": 0.10898989898989898,
+    "tensorflow_mlp": 0.98010101010101
+  }
+}
