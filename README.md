@@ -68,6 +68,12 @@ Model selection is not based on accuracy. It is based on:
 
 ---
 
+## 🌐 Live Deployment
+
+- **Streamlit Cloud**: https://creditcardfrauddetectionsystem-hwpxrel2hzwmcpuq8fqtd2.streamlit.app/
+
+---
+
 ## Deployment Steps
 ### Streamlit Community Cloud
 1. Push project to GitHub.
