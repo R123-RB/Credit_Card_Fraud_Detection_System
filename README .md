@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection System
+# CREDIT CARD FRAUD DETECTION SYSTEM
 
 ## Project Overview
 This project builds a binary fraud detection system on the Kaggle credit card transaction dataset with a production-oriented objective: reduce **false negatives** (missed fraud) while keeping false positives under control.
