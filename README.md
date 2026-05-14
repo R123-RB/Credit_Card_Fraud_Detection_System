@@ -70,7 +70,7 @@ Model selection is not based on accuracy. It is based on:
 
 ## 🌐 Live Deployment
 
-- **Streamlit Cloud**: https://creditcardfrauddetectionsystem-hwpxrel2hzwmcpuq8fqtd2.streamlit.app/
+- **Streamlit Cloud**: https://creditcardfrauddetectionsystem-myhydksngrycxtchnmxera.streamlit.app/
 
 ---
 
