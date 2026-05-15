@@ -74,6 +74,11 @@ Model selection is not based on accuracy. It is based on:
 
 ---
 
+### Screenshots
+
+**Home — Input Interface**
+![Screenshot](https://raw.githubusercontent.com/R123-RB/Credit_Card_Fraud_Detection_System/main/screenshots/Screenshot%202026-05-15%20233615.png)
+
 ## Deployment Steps
 ### Streamlit Community Cloud
 1. Push project to GitHub.
@@ -94,3 +99,19 @@ Run `train_models.py` in CI/CD or scheduled retraining job, version artifacts, a
 - Add temporal validation split to simulate real fraud detection chronology.
 - Add explainability for individual predictions (e.g., SHAP for XGBoost).
 - Add API service layer (FastAPI) for low-latency scoring.
+
+---
+
+## 👥 Team Members
+
+| Name |
+|---|
+| *MEERA G* |
+| *ARYA MOHAN G* |
+| *Rehan Biju* |
+
+---
+
+## 📄 License
+
+This project is intended for academic and educational purposes.
