@@ -103,7 +103,7 @@ def build_model(model_name: str, y_train: pd.Series, input_dim: int):
     return None
 
 @st.cache_resource
-def train_pipeline(model_name: str, imbalance_method: str):
+def joblib.load(model_name: str, imbalance_method: str):
     df, feature_cols = load_and_preprocess_data()
     X = df[feature_cols]
     y = df["Class"].astype(int)
