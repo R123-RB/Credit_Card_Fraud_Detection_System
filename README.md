@@ -16,8 +16,7 @@ Model selection is not based on accuracy. It is based on:
 - Confusion Matrix
 - Cost-based objective:
   - `Total Cost = FN * Cost_FN + FP * Cost_FP`
-
----
+ 
 
 ## Why This Pipeline Is Leakage-Safe
 - Train/test split is done before any resampling.
